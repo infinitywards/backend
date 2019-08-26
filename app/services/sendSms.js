@@ -1,6 +1,6 @@
 var twilio = require('twilio');
-var accountSid = 'AC947d59f1edf12eeb95a35920a8186762'; // Your Account SID from www.twilio.com/console
-var authToken = '5e3c96bdc7ed66bc9d0320ea15be1136';   // Your Auth Token from www.twilio.com/console
+var accountSid = '#'; // Your Account SID from www.twilio.com/console
+var authToken = '#';   // Your Auth Token from www.twilio.com/console
 
 var client = new twilio(accountSid, authToken);
 
